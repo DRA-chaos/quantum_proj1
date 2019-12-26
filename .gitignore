@@ -1,2 +1,4 @@
 key.txt
 .ipynb_checkpoints/
+venv/
+__pycache__/
